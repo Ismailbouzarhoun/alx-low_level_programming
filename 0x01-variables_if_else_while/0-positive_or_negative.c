@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
-*  main - Entry mode of operation
-*  Return: Alwas 0 (success)
-*/
+/**
+ *  main - Entry mode of operation
+ *  Return: Alwas 0 (success)
+ */
 int main(void)
 {
 	int n;
